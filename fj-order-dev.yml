@@ -1,2 +1,6 @@
 server:
   port: 8083
+  
+boy:
+  age: 36
+  duty: engineer
