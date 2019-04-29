@@ -1,0 +1,11 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8081/eureka/
+label: master
+server:
+  port: 8081
+spring:
+  application:
+    name: fj-eureka
+env: dev
