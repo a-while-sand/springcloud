@@ -4,3 +4,6 @@ server:
 boy:
   age: 36
   duty: engineer
+
+env: dev  
+  
